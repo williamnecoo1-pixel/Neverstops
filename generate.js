@@ -2,12 +2,19 @@ const fs = require('fs/promises');
 
 // الليستة ديال الروابط ديالك (خليها كيفما هي عندك، هنا درت غير اختصار باش الكود يبان)
 const sourceUrls = [
+  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Trojan.txt",
+  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Vless.txt",
+  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/output_configs/Vmess.txt",
+  "https://github.com/miladtahanian/V2RayScrapeByCountry/raw/refs/heads/main/Countries/.txt",
   "https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/trojan.txt",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vless.txt",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vmess.txt",
      "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix.txt",
   "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix",
+  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/trojan.txt",
+  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vless.txt",
+  "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vmess.txt",
 ];
 
 // ============================================================
