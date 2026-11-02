@@ -13,9 +13,7 @@ const sourceUrls = [
 // HOST POOL (التوزيع بالتناوب)
 // ============================================================
 const HOST_POOL = [
-  "104.18.37.127",
-  "x.com",
-  "www.getlucky.com",
+  
 ];
 
 let hostIndex = 0; // مؤشر التوزيع
