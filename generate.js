@@ -2,7 +2,7 @@ const fs = require('fs/promises');
 
 // الليستة ديال الروابط ديالك (خليها كيفما هي عندك، هنا درت غير اختصار باش الكود يبان)
 const sourceUrls = [
- 
+  "https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/trojan.txt",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vless.txt",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vmess.txt",
