@@ -2,7 +2,7 @@ const fs = require('fs/promises');
 
 // الليستة ديال الروابط ديالك (خليها كيفما هي عندك، هنا درت غير اختصار باش الكود يبان)
 const sourceUrls = [
-  
+  "https://github.com/rtwo2/FastNodes/raw/refs/heads/main/sub/ipv4_only.txt",
   "https://github.com/crackbest/V2ray-Config/raw/refs/heads/main/config.txt",
   "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/all_configs.txt",
   "https://github.com/10Dream/sub-mod/raw/refs/heads/main/sub/normal/10ium-V2Hub3-vless",
