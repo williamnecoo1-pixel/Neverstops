@@ -26,7 +26,8 @@ const sourceUrls = [
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vless.txt",
   "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/vmess.txt",
   "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix.txt",
-  "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix"
+  "https://github.com/iboxz/free-v2ray-collector/raw/refs/heads/main/main/mix",
+  "https://github.com/williamnecoo1-pixel/reality/raw/refs/heads/main/working_configs.txt",
      
 ];
 
